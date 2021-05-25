@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_header{
+    border-bottom: 1px solid rgb(241, 217, 217);
+}
+
+header{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+  
+}
+ img{
+width: 30%;
+}
+nav{
+    width: 40%;
+
+float: right;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    float: left;
+    margin-left: 35px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.content_section{
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+
+}
+.content_section h1{
+
+font-size: 40px;
+margin: 10px;
+
+
+}
+
+
+.content_section h2{
+    font-size: 35px;
+    margin: 10px;
+    color: rgb(18, 172, 172);
+    
+
+}
+.content_section p{
+font-size: 20px;
+margin: 20px;
+text-transform: capitalize;
+
+}
+.content_section img{
+width: 50%;
+margin-top: 20px;
+}
+
+
+
+
+
+.sucsses{
+width: 70%;
+margin: auto;
+text-align: center;
+overflow: hidden;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.sucsses_left{
+float: left;
+width: 48%;
+
+
+}
+
+.sucsses_left h1{
+    font-size: 50px;
+    color: brown;
+  text-align: right;
+    
+}
+.sucsses_left p{
+font-size: 20px;
+text-align: right;
+
+
+}
+
+
+.sucsses_right{
+float: right;
+width: 48%;
+
+}
+.sucsses_right h1{ 
+    font-size: 30px;
+    color: rgb(20, 17, 17);
+}
+
+.item{
+width: 80%;
+margin: auto;
+overflow: hidden;
+text-align: right;
+}
+.item_one{
+float: left;
+text-align: center;
+width: 25%;
+padding: 50px 30px;
+background: #fdebed;
+
+}
+
+
+.item_two{
+float: left;
+width: 25%;
+padding: 50px 30px;
+background-color: #EBF9F4;
+
+}
+    
+.item_three{
+float: right;
+width: 25%;
+padding: 50px 30px;
+
+
+}
+.item_one img, .item_two img, .item_three img{
+    width: 100%;
+}
+
+.item_one h1{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.item_two h1{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.item_three h1{
+    text-align: left;
+    margin: 15px 0;
+
+}
+
+.item_one p{
+    text-align: left;
+}
+ .item_two p{
+    text-align: left;
+ }
+ .item_three p{
+    text-align: left;
+}
+
+
+
+
+footer{
+background-color: #008AFF;
+text-align: center;
+padding: 40px 0;
+}
+footer p{
+color: #8bcaff;
+font-size: 18px;
+}
+footer p span{
+color: #fff;
+font-size: 20px;
+font-weight: 700;
+letter-spacing: 2px;
+}
+
